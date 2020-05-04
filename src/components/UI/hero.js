@@ -7,7 +7,7 @@ const hero = (props) => {
         <div class="container">
           <h1 class="title">Toronto vs Vancouver</h1>
           <h2 class="subtitle">
-            Who has more miserable weather? Or pick you own city ;)
+            Who has more miserable weather? Or pick your own city ;)
           </h2>
         </div>
       </div>
